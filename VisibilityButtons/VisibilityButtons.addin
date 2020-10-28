@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
-  <AddIn Type="Command">
+  <!--<AddIn Type="Command">
     <Text>VisibilityButtons(linkedModel)</Text>
     <Description>VisibilityButtons</Description>
     <Assembly>VisibilityButtons.dll</Assembly>
@@ -17,13 +17,13 @@
 		<ClientId>2AAEF86F-AA57-4580-959D-25C81A735CCC</ClientId>
 		<VendorId>com.typepad.thebuildingcoder</VendorId>
 		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
-	</AddIn>
-  <!--<AddIn Type="Application">
+	</AddIn>-->
+  <AddIn Type="Application">
     <Name>Application VisibilityButtons</Name>
     <Assembly>VisibilityButtons.dll</Assembly>
     <FullClassName>VisibilityButtons.App</FullClassName>
     <ClientId>a4de3401-2df5-48ac-8378-f6c075610b4a</ClientId>
     <VendorId>com.typepad.thebuildingcoder</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
-  </AddIn>-->
+  </AddIn>
 </RevitAddIns>
