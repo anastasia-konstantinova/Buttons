@@ -21,7 +21,7 @@ namespace VisibilityButtons
             UIDocument uidoc = uiapp.ActiveUIDocument;
             Application app = uiapp.Application;
             Document doc = uidoc.Document;
-            try
+            /*try
             {
                 FilteredElementCollector col = new FilteredElementCollector(doc).OfClass(typeof(ImportInstance));
                 IList<Element> imports = col.WhereElementIsNotElementType().ToElements();
@@ -63,6 +63,12 @@ namespace VisibilityButtons
             {
                 message = e.Message;
                 return Result.Failed;
+            }
+
+            return Result.Succeeded;*/
+            using (ImportForm thisForm = new ImportForm(doc))
+            {
+                thisForm.ShowDialog();
             }
 
             return Result.Succeeded;

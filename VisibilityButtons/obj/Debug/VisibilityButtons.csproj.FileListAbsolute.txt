@@ -4,3 +4,6 @@ C:\Users\rando\OneDrive\Desktop\work\Кнопки\VisibilityButtons\VisibilityBu
 C:\Users\rando\OneDrive\Desktop\work\Кнопки\VisibilityButtons\VisibilityButtons\obj\Debug\VisibilityButtons.csproj.CoreCompileInputs.cache
 C:\Users\rando\OneDrive\Desktop\work\Кнопки\VisibilityButtons\VisibilityButtons\obj\Debug\VisibilityButtons.dll
 C:\Users\rando\OneDrive\Desktop\work\Кнопки\VisibilityButtons\VisibilityButtons\obj\Debug\VisibilityButtons.pdb
+C:\Users\rando\OneDrive\Desktop\work\Кнопки\VisibilityButtons\VisibilityButtons\obj\Debug\VisibilityButtons.LinkedForm.resources
+C:\Users\rando\OneDrive\Desktop\work\Кнопки\VisibilityButtons\VisibilityButtons\obj\Debug\VisibilityButtons.csproj.GenerateResource.cache
+C:\Users\rando\OneDrive\Desktop\work\Кнопки\VisibilityButtons\VisibilityButtons\obj\Debug\VisibilityButtons.ImportForm.resources
